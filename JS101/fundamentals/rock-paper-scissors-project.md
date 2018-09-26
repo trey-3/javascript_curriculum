@@ -334,3 +334,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Funtikar's UI Solution](https://github.com/funtikar/RockPaperScissorgame) - [View in Browser](https://funtikar.github.io/RockPaperScissorgame/)
 - [Chel's Solution](https://github.com/oclVargas/RockPaperScissors)
 - [Raja Sekhar's Solution](https://github.com/IBTechRaj/RockPaperScissors) - [View in Browser](https://IBTechRaj.github.io/RockPaperScissors/)
+- [Trey-3's Solution](https://github.com/trey-3/RockPaperScissorsBasic) - [View in Browser](https://trey-3.github.io/RockPaperScissorsBasic/)
+
